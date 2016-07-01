@@ -3,12 +3,15 @@
     "title": "How to Develop a Stream Handler for Cisco CSA",
     "slug": "Learn how to develop CSA custom handlers and use of CSA in our DevNet platform ",
     "time": "30",
-    "tags": [{"title": "data"}, 
-             {"title": "DLP"}
+    "tags": [
+              {"title": "data"}, 
+              {"title": "DLP"}
             ],
-    "files": [{"title": "1.md"}
+    "files": [
+               {"title": "1.md"}
              ],
-    "authors": [{"name": "","email": ""}
+    "authors": [
+                 {"name": "","email": ""}
                ],
     "active": true
 }
