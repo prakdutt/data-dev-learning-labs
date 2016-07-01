@@ -1,0 +1,32 @@
+{
+    "labId": "net-data-ingest-trans",
+    "title": "Network Data Ingestion and Transformation",
+    "slug": "Learn how you can have network data flow from a local network through Kafka in HDFS and transform it. ",
+    "time": "30",
+    "tags": [{
+        "title": "data"
+    }, {
+        "title": "DLP"
+    }, {
+        "title": "HDFS"
+    }, {
+        "title": "Kafka"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }],
+    "related": [{
+        "labId": "sample-lab-2",
+        "title": "Sample Lab 2 - Sample lab to link to"
+    }, {
+        "labId": "sample-lab-3",
+        "title": "Sample Lab 3 - Sample lab to link to"
+    }],
+    "authors": [{
+        "name": "Ashley Roach",
+        "email": "asroach@cisco.com"
+    }],
+    "active": false
+}
