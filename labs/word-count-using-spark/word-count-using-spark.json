@@ -1,0 +1,18 @@
+{
+    "labId": "word-count-using-spark",
+    "title": "How to use IDE in DLP to create a WordCount program ",
+    "slug": "Learn how to use IDE in DLP to create a WordCount program and how to execute it to get the intended result.",
+    "time": "30",
+    "tags": [
+              {"title": "data"}, 
+              {"title": "DLP"},
+              {"title": "Spark"}
+            ],
+    "files": [
+               {"title": "1.md"}
+             ],
+    "authors": [
+                 {"name": "","email": ""}
+               ],
+    "active": true
+}
