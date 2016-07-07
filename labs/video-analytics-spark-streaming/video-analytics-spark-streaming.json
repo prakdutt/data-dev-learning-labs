@@ -3,6 +3,10 @@
   "title": "Video Analytics Using Spark Streaming",
   "slug": "Learn how to integrate SparkStreaming with Kafka",
   "time": 10,
+  "tags": [
+    {"title": "data"},
+    {"title": "DLP"}
+  ],
   "files": [
     {"title": "1.md"}
   ],
